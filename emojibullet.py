@@ -20,6 +20,6 @@ def main():
                     
                     outf.write(new_line)
 
-    print(f"New emoji file found in {txtf}.")
+    print("New emoji file found in emojibullet.txt.")
 
 main()
