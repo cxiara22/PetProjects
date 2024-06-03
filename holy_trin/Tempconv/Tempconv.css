@@ -1,0 +1,27 @@
+html, body {
+    text-align: center;
+    background-color: lightgrey;
+}
+
+#form-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    gap: 10px;
+    background-color: aliceblue; 
+    width: 500px;
+    height: 300px; 
+    border-radius: 20px;
+
+    margin: auto;
+    margin-top: 10px;
+}
+
+#number {
+    text-align: center;
+}
+
+
+
