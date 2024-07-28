@@ -13,4 +13,6 @@ Petprojects README
 # Counterprog -- simple counter and practice in making buttons 
 # Randomgen -- a dice roll with a min/max that allows you to randomly generate 3 numbers within that range; wrapped with bootstrap
 # Tempconv -- understanding buttons and functions by creating a temperature converter (C to F and back)
+# BloodTest -- a simple console-based prog to display if two people are suitable for blood donation (mainly to test out OOP and callbacks)
 
+ 

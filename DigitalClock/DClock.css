@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+
+#DClock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* make it the viewport height */
+    height: 100vh; 
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 7em;
+}
