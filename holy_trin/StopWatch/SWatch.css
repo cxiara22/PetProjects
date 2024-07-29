@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    height: 100vh;
+}
+
+#SWatchDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+    border: 5px solid;
+    border-color: rgba(209, 171, 102, 0.685);
+    border-radius: 20px;
+    width: 550px;
+}
+
+h2{
+    font-size: 4em;
+    font-weight: 300;
+}
+
+.btn{
+    font-size: 2em;
+    margin: 5px;
+    padding: 20px;
+}
+
+#lapseTimes {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+    margin: 10px;
+}
+
+#lapseTimes > p {
+    padding: 5px;
+}

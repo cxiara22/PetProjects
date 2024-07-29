@@ -14,5 +14,8 @@ Petprojects README
 # Randomgen -- a dice roll with a min/max that allows you to randomly generate 3 numbers within that range; wrapped with bootstrap
 # Tempconv -- understanding buttons and functions by creating a temperature converter (C to F and back)
 # BloodTest -- a simple console-based prog to display if two people are suitable for blood donation (mainly to test out OOP and callbacks)
-
+# DigitalClock -- web prog similar to the most basic feature of Momentum : a timekeeping mechanism 
+    - improvement #1 : adding a button to switch btwn 24-hr and 12-hr time 
+    - improvement #2 : add a to-do list to prac classes and objects
+# Stopwatch -- start, stop, clear
  
